@@ -1,0 +1,47 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-color: #fff
+}
+.iphonexxs11pro1row0 {
+  display: flex;
+  margin-left: 14.399999999999999vw;
+  margin-top: 7.0197044334975365vh;
+  width: 51.46666666666667vw
+}
+.style1,
+.style2,
+.style3 {
+  width: 26.666666666666668vw;
+  height: 26.666666666666668vw
+}
+.style1 {
+  background-color: #02f;
+  margin-left: 0;
+  margin-top: 0;
+  z-index: 0;
+  flex-grow: 1
+}
+.style2,
+.style3 {
+  position: relative
+}
+.style2 {
+  display: flex;
+  flex-grow: 1;
+  background-color: red;
+  margin-left: -1.8666666666666667vw;
+  margin-top: 8.266666666666667vw;
+  z-index: 1
+}
+.style3 {
+  background-color: #00ff08;
+  margin-left: -17.866666666666667vw;
+  margin-top: 2.4vw;
+  z-index: 2;
+  flex-shrink: 0
+}
+.breakpoint-0 {
+  display: block
+}
